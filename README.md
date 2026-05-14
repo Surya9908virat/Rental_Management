@@ -162,8 +162,8 @@ During my internship period, I participated in multiple community-oriented activ
 
 <div align="center">
 <img src="https://github.com/Surya9908virat/Rental_Management/blob/main/Sure%20trust/1.jpeg" alt="Community Service Photo 1" width="30%">
-<img src="https://github.com/Surya9908virat/Rental_Management/blob/main/Sure%20trust/2.jpeg" alt="Community Service Photo 2" width="30%">
-<img src="https://github.com/Surya9908virat/Rental_Management/blob/main/Sure%20trust/3.jpeg" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/Surya9908virat/Rental_Management/blob/main/Sure%20trust/3.jpeg" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/Surya9908virat/Rental_Management/blob/main/Sure%20trust/2.jpeg" alt="Community Service Photo 3" width="30%">
 </div>
 
 ---
