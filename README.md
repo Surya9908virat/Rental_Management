@@ -88,7 +88,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   RentWise is a full-stack property management system that connects landlords and tenants to manage leases, payments, maintenance requests, and communication in one platform.
 </p>
 <p>
-  <a href="https://github.com/srenisivadas/RentWise/blob/main/SURE%20Trust%20project%20document%20Final.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Surya9908virat/Rental_Management/blob/main/SURE%20Trust%20FINAL%20PROJECT%20DOCUMENTATION.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
