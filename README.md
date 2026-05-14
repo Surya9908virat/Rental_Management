@@ -18,11 +18,11 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> SRENI SIVADAS </p>
-    <p><strong>Email ID:</strong> srenisivadas2004@gmail.com </p>
-    <p><strong>College Name:</strong> Government Engineering College,Sreekrishnapuram,Palakkad </p>
+    <p><strong>Name:</strong> SWAMIREDDY SURYA GANGADHAR </p>
+    <p><strong>Email ID:</strong> swamireddysurya@gmail.com </p>
+    <p><strong>College Name:</strong> Gayatri vidya parishad college of engineering </p>
     <p><strong>Branch/Specialization :</strong> Computer Science and Engineering </p>
-    <p><strong>College ID:</strong> PKD22CS063 </p>
+    <p><strong>College ID:</strong> GVPE </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
